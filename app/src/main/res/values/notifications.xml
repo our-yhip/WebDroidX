@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+
+    <string name="fcm_notification_topic">webdroidx_topic</string>
+    <string name="onesignal_app_id">68b2a38e-12b2-4132-b0e3-9b5d8172f42c</string>
+
+</resources>
